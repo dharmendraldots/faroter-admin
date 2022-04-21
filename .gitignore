@@ -1,0 +1,13 @@
+/vendor
+.env
+.env.backup
+/.idea
+/.vscode
+.htaccess
+/api
+/stripe
+/public
+info.php
+fcm.php
+index_old.php
+email.php
